@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyMovies</string>
+    <string name="search">search</string>
+    <string name="show">show</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="show1">הראה</string>
+    <string name="ok1">סבבה</string>
+    <string name="cancel1">בטל</string>
+    //context menus
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="Edit">Edit</string>
+</resources>

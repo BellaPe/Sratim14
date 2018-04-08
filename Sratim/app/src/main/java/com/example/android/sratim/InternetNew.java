@@ -21,6 +21,7 @@ private  ListView listViewMovies;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_internet_new);
+      listViewMovies = (ListView)findViewById(R.id.listViewMovies);
         controller = new SingleMovieReaderController(this);
         con = MyApp.getContext();
 
